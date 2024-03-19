@@ -1,0 +1,11 @@
+C:\Users\abhra\OneDrive\Documents\Visual Studio 2022\Projects\Protein Analysis\Protein Analysis\bin\Debug\Protein Analysis.exe.config
+C:\Users\abhra\OneDrive\Documents\Visual Studio 2022\Projects\Protein Analysis\Protein Analysis\bin\Debug\Protein Analysis.exe
+C:\Users\abhra\OneDrive\Documents\Visual Studio 2022\Projects\Protein Analysis\Protein Analysis\bin\Debug\Protein Analysis.pdb
+C:\Users\abhra\OneDrive\Documents\Visual Studio 2022\Projects\Protein Analysis\Protein Analysis\obj\Debug\Protein Analysis.csproj.AssemblyReference.cache
+C:\Users\abhra\OneDrive\Documents\Visual Studio 2022\Projects\Protein Analysis\Protein Analysis\obj\Debug\Protein Analysis.csproj.CoreCompileInputs.cache
+C:\Users\abhra\OneDrive\Documents\Visual Studio 2022\Projects\Protein Analysis\Protein Analysis\obj\Debug\Protein Analysis.exe
+C:\Users\abhra\OneDrive\Documents\Visual Studio 2022\Projects\Protein Analysis\Protein Analysis\obj\Debug\Protein Analysis.pdb
+C:\Users\abhra\OneDrive\Documents\Visual Studio 2022\Projects\Protein Analysis\Protein Analysis\bin\Debug\Protein Analysis.exe.manifest
+C:\Users\abhra\OneDrive\Documents\Visual Studio 2022\Projects\Protein Analysis\Protein Analysis\bin\Debug\Protein Analysis.application
+C:\Users\abhra\OneDrive\Documents\Visual Studio 2022\Projects\Protein Analysis\Protein Analysis\obj\Debug\Protein Analysis.exe.manifest
+C:\Users\abhra\OneDrive\Documents\Visual Studio 2022\Projects\Protein Analysis\Protein Analysis\obj\Debug\Protein Analysis.application
