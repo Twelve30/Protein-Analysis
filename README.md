@@ -1,5 +1,4 @@
 # Protein-Analysis
-A simple program that takes the amino acid sequence a protein and returns the number of particular residues in said protien
 
 This is a simple program made in C# that analyses the amino acid sequence in a protein and returns the number of particular residues in the sequence. It can also be used on any string to checkk how many times a particular character occurs in it.
 
